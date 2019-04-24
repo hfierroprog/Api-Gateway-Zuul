@@ -1,4 +1,4 @@
-package cl.hfierroprog.apiGateway.ApiGateway;
+package cl.hfierroprog.apiGateway.ApiGateway.gatewayfilters;
 
 import com.netflix.zuul.ZuulFilter;
 
